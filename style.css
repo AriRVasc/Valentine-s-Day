@@ -1,0 +1,54 @@
+body {
+    background-color: #000;
+    color: #fff;
+    font-family: sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 70vh;
+    margin: 2;
+    text-align: center;
+}
+
+main {
+    padding: 20px;
+}
+
+section {
+    margin: auto;
+    width: 180px;
+}
+
+.btn {
+    background: #f42d9a;
+    border: none;
+    border-radius: 8px;
+    color: white;
+    padding: 10px;
+    width: 80px;
+    margin: 1px;
+    cursor: pointer;
+}
+
+.btn.btn-accept {
+    display: block;
+    position: fixed;
+}
+
+.btn.btn-declined {
+    position: absolute;
+}
+
+.my-love {
+    position: absolute;
+    left: 1000px; 
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+
+audio {
+    margin: auto;
+    width: 300px;
+    left: 1200px; 
+}
