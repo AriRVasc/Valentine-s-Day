@@ -1,11 +1,6 @@
 function aceitarProposta() {
     alert("Que bom! Eu também quero namorar com você!");
-    /*var imagem = document.createElement("img");
-    imagem.src = "img.jpg";
-    document.body.appendChild(imagem); 
-    var audio = new Audio("music.mp3");
-    audio.play();*/
-    window.location.href = "nova_pagina.html";
+    window.location.href = "new.html";
     
 }
 

@@ -41,7 +41,7 @@ section {
 
 .my-love {
     position: absolute;
-    left: 1000px; 
+    left: 100px; 
     top: 50%;
     transform: translateY(-50%);
 }
